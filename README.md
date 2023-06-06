@@ -4,11 +4,11 @@
     App creates a readme file using the users input from the prompt in the command line
   
     Table of Contents
-    1. [Installation](#install)
-    2. [License](#license)
-    3. [Usage](#usage)
-    4. [Tests](#test)
-    5. [Contributing](#contributing)
+    1. Installation
+    2. License
+    3. Usage
+    4. Tests
+    5. Contributing
     
     Installation 
     this app require node and the inquirer module
@@ -18,7 +18,8 @@
 
     Usage 
     answer prompt from the command line
-    ## Tests
+    
+    Tests
     npm test
 
     Contributing 
